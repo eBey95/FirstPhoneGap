@@ -1,0 +1,33 @@
+/*
+	Author: Eric Bey
+	Creation date: February 15, 2015
+	Title: First phone gap app
+	Revised: 
+	Purpose: Get introduced to phone gap
+	Notes: 
+*/
+
+body{
+	background-color: lightblue;
+}
+
+.banner{
+	postition: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	text-align: center;
+	font-size: 1rem;
+	color: white;
+	background-color: teal;
+	font-family: sans-serif;
+	opacity: 0.5;
+}
+
+.banner-top{
+	top: 0;
+}
+
+.banner-bottom{
+	bottom: 0;
+}
